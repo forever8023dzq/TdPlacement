@@ -1,0 +1,8 @@
+
+{
+    "status": "SUCCESS",
+    "data": {
+        "minAmount": 5000,
+        "exchangeRate": 1
+    }
+}

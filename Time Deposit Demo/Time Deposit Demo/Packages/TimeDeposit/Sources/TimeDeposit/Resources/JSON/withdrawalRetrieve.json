@@ -1,0 +1,25 @@
+{
+    "status": "SUCCESS",
+    "data": {
+        "timeDepositDetail": {
+            "timeDepositAccountDetail": {
+                "accountKeyDetail": {
+                    "accountNo": "201001762501",
+                    "accountType": "T",
+                    "currencyType": "USD"
+                }
+            }
+        },
+        "timeDepositAdviseDetail": {
+            "timeDepositAdvisePrimaryDetail": {
+                "maturityDate": "2022-12-01",
+                "originalBalance": 20000,
+                "netSettlementAmt": 20015,
+                "ytdInterestPenalty": 0
+            },
+            "timeDepositAdviseInterestDetail": {
+                "interestAvailAmount": 20
+            }
+        }
+    }
+}

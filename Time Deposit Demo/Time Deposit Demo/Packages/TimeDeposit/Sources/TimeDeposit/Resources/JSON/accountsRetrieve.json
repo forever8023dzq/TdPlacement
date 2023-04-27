@@ -1,0 +1,14 @@
+{
+    "status": "SUCCESS",
+    "data": {
+        "casas ": [
+            {
+                "accountNo": "270339591001",
+                "formattedAccountNo": "270-339591-001",
+                "productName": "Statement Savings Account",
+                "remainingBalance": 2141.11,
+                "currencyType": "SGD"
+            }
+        ]
+    }
+}
